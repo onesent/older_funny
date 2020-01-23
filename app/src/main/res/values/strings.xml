@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">oldome</string>
+    <string name="title_home">广场</string>
+    <string name="title_information">消息箱</string>
+    <string name="title_personal_center">个人中心</string>
+    <string name="scrollbottom_text">到底了...</string>
+</resources>
